@@ -24,4 +24,4 @@ view all pending tasks.
 
 ## Purpose
 This project is developed for the Data Structures final lab to demonstrate
-linked list operations such as insertion, deletion, and traversal.
+linked list operations such as insertion, deletion, and traversal.  
